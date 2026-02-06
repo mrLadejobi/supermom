@@ -30,7 +30,7 @@ export default function App() {
   const [nameInput, setNameInput] = useState('');
   const audioRef = useRef<HTMLAudioElement>(null);
 
-  const SECRET_NICKNAME = "Bubbles"; // Change this to your nickname!
+  const SECRET_NICKNAME = "Ena"; 
   
   // List your image files here (they must be in the public folder)
   // If you don't have images yet, it will just show empty polaroids
